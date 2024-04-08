@@ -25,11 +25,11 @@
 
 如果您有任何建議或意見，歡迎您向我們提出。您可以通過以下方式進行貢獻：
 
-* 在 GitHub 上提交 [issue]()
-* 在 GitHub 上提交 [pull request]()
+* 在 GitHub 上提交 [issue](https://github.com/jim8764952/CAE/issues)
+* 在 GitHub 上提交 [pull request](https://github.com/jim8764952/CAE/pulls)
 
 ## 團隊
 
-* [JimWang](https://github.com/)
+* [JimWang](https://github.com/jim8764952)
 
 ## 授權
